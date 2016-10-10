@@ -91,16 +91,6 @@
               <children xmi:type="notation:ListCompartment" xmi:id="_tc_48YPUEeacOatE6L0DUw" visible="false" type="Extension_Points"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tc1g4oPUEeacOatE6L0DUw" x="2892" y="11705"/>
             </children>
-            <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_xnEFoYPUEeacOatE6L0DUw" element="_xnEFoIPUEeacOatE6L0DUw" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-              <children xmi:type="notation:DecorationNode" xmi:id="_xnEFo4PUEeacOatE6L0DUw" type="ImageCompartment">
-                <layoutConstraint xmi:type="notation:Size" xmi:id="_xnEFpIPUEeacOatE6L0DUw" width="2216" height="1322"/>
-              </children>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_xnEFpYPUEeacOatE6L0DUw" type="Stereotype"/>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_xnEFpoPUEeacOatE6L0DUw" type="Name"/>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_xnEFp4PUEeacOatE6L0DUw" type="Parent"/>
-              <children xmi:type="notation:ListCompartment" xmi:id="_xnEFqIPUEeacOatE6L0DUw" visible="false" type="Extension_Points"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xnEFooPUEeacOatE6L0DUw" x="7275" y="14042"/>
-            </children>
             <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_08E5oIPUEeacOatE6L0DUw" element="_074sYIPUEeacOatE6L0DUw" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
               <children xmi:type="notation:DecorationNode" xmi:id="_08FgsIPUEeacOatE6L0DUw" type="ImageCompartment">
                 <layoutConstraint xmi:type="notation:Size" xmi:id="_08FgsYPUEeacOatE6L0DUw" width="2216" height="1322"/>
@@ -462,15 +452,6 @@
             <layoutConstraint xmi:type="notation:Location" xmi:id="_1-otcYPVEeacOatE6L0DUw" y="705"/>
           </children>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_1-fjdoPVEeacOatE6L0DUw" points="[244, 1030, -7235, -3238]$[2365, 1030, -5114, -3238]$[2365, 3634, -5114, -634]$[7105, 3634, -374, -634]"/>
-        </edges>
-        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_WIrqsIpzEeaEuqrN6puvog" element="_WHxEsIpzEeaEuqrN6puvog" source="_xnEFoYPUEeacOatE6L0DUw" target="_odHekIPUEeacOatE6L0DUw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
-          <children xmi:type="notation:DecorationNode" xmi:id="_WIuuAIpzEeaEuqrN6puvog" type="KindLabel">
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_WIuuAopzEeaEuqrN6puvog" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_WIvVEYpzEeaEuqrN6puvog" type="Kind"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_WIvVEIpzEeaEuqrN6puvog" type="Name"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WIuuAYpzEeaEuqrN6puvog" y="-124"/>
-          </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WIrqsYpzEeaEuqrN6puvog" points="[9, -10, 9, 116]$[9, -103, 9, 23]"/>
         </edges>
       </contents>
       <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_JMqgUIQJEeaFIv-tzlNgow" type="Class" name="DiagrammeClasse1">
@@ -955,7 +936,7 @@
     <packageImport xmi:id="_y8nOMoPSEeacOatE6L0DUw">
       <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
     </packageImport>
-    <packagedElement xmi:type="uml:Component" xmi:id="_A7Vy4IPTEeacOatE6L0DUw" name="eCours" useCase="_sxbo4IPTEeacOatE6L0DUw _D5oTgIPUEeacOatE6L0DUw _RAusoIPUEeacOatE6L0DUw _TqrKYIPUEeacOatE6L0DUw _hCVIAIPUEeacOatE6L0DUw _oc7RUIPUEeacOatE6L0DUw _tc1g4IPUEeacOatE6L0DUw _xnEFoIPUEeacOatE6L0DUw _074sYIPUEeacOatE6L0DUw">
+    <packagedElement xmi:type="uml:Component" xmi:id="_A7Vy4IPTEeacOatE6L0DUw" name="eCours" useCase="_sxbo4IPTEeacOatE6L0DUw _D5oTgIPUEeacOatE6L0DUw _RAusoIPUEeacOatE6L0DUw _TqrKYIPUEeacOatE6L0DUw _hCVIAIPUEeacOatE6L0DUw _oc7RUIPUEeacOatE6L0DUw _tc1g4IPUEeacOatE6L0DUw _074sYIPUEeacOatE6L0DUw">
       <ownedUseCase xmi:id="_D5oTgIPUEeacOatE6L0DUw" name="Consulter contenu" subject="_A7Vy4IPTEeacOatE6L0DUw"/>
       <ownedUseCase xmi:id="_sxbo4IPTEeacOatE6L0DUw" name="S'auto-évaluer" subject="_A7Vy4IPTEeacOatE6L0DUw">
         <eAnnotations xmi:id="_4m1JkIPTEeacOatE6L0DUw" source="uml2.diagrams"/>
@@ -967,7 +948,7 @@
         <extensionPoint xmi:id="_WH2kQIpzEeaEuqrN6puvog" name="ExtensionPoint1"/>
       </ownedUseCase>
       <ownedUseCase xmi:id="_tc1g4IPUEeacOatE6L0DUw" name="Gérer questions" subject="_A7Vy4IPTEeacOatE6L0DUw"/>
-      <ownedUseCase xmi:id="_xnEFoIPUEeacOatE6L0DUw" name="Gérer chapitres" subject="_A7Vy4IPTEeacOatE6L0DUw">
+      <ownedUseCase xmi:id="_xnEFoIPUEeacOatE6L0DUw" name="Gérer chapitres">
         <extend xmi:id="_WHxEsIpzEeaEuqrN6puvog" extendedCase="_oc7RUIPUEeacOatE6L0DUw" extensionLocation="_WH2kQIpzEeaEuqrN6puvog"/>
       </ownedUseCase>
       <ownedUseCase xmi:id="_074sYIPUEeacOatE6L0DUw" name="Effacer commentaires" subject="_A7Vy4IPTEeacOatE6L0DUw"/>
